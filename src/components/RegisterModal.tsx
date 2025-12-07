@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { EyeIcon, EyeSlashIcon } from '@heroicons/react/20/solid'
+import { EyeIcon, EyeSlashIcon } from '@heroicons/react/24/solid'
 import logo from '/src/image/logo.png'
 
 interface RegisterModalProps {
