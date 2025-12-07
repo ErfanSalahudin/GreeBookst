@@ -1,4 +1,4 @@
-import bgbooks from '../image/bgbooks.jpg'
+const bgbooks = '/image/bgbooks.jpg'
 
 export const styles = {
   pageContainer: {
