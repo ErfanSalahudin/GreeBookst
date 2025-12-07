@@ -1,0 +1,14 @@
+
+# Direktori Dependensi
+node_modules/
+
+# File Konfigurasi Sistem Windows
+desktop.ini
+
+# Build output
+dist/
+build/
+
+# Variabel Lingkungan
+.env
+.env.local
