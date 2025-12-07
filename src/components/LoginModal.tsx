@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { EyeIcon, EyeSlashIcon } from '@heroicons/react/24/solid'
-import logo from '/src/image/logo.png'
+const logo = '/image/logo.png'
 
 interface LoginModalProps {
   isOpen: boolean

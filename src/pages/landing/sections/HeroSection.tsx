@@ -4,7 +4,7 @@ const HeroSection: React.FC = () => {
   return (
     <section
       className="relative bg-cover bg-center h-screen flex items-center"
-      style={{ backgroundImage: "url('/src/image/bg.jpg')" }}
+      style={{ backgroundImage: "url('/image/bg.jpg')" }}
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>{' '}
       {/* Overlay */}

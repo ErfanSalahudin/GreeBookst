@@ -22,7 +22,7 @@ const Header: React.FC<HeaderProps> = ({
       <div className="container mx-auto flex justify-between items-center px-4">
         <div className="flex items-center">
           <img
-            src="/src/image/logo.png"
+            src="/image/logo.png"
             alt="GreeBooks Logo"
             className="h-20 w-20 mr-2"
           />

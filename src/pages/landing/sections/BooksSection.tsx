@@ -4,14 +4,14 @@ const BooksSection: React.FC = () => {
   const carouselRef = useRef<HTMLDivElement>(null)
 
   const images = [
-    '/src/image/act1.jpg',
-    '/src/image/act2.jpg',
-    '/src/image/act3.jpg',
-    '/src/image/act4.jpg',
-    '/src/image/hr2.jpg',
-    '/src/image/hr3.jpg',
-    '/src/image/hr4.jpg',
-    '/src/image/ed2.jpg'
+    '/image/act1.jpg',
+    '/image/act2.jpg',
+    '/image/act3.jpg',
+    '/image/act4.jpg',
+    '/image/hr2.jpg',
+    '/image/hr3.jpg',
+    '/image/hr4.jpg',
+    '/image/ed2.jpg'
   ]
 
   const scrollLeft = () => {
