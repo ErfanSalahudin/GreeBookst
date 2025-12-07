@@ -1,7 +1,7 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import Header from './HeaderUser'
-import bgImage from '../../image/bg.jpg'
+const bgImage = '/image/bg.jpg'
 
 const pageStyles = {
   dashboardContainer: {
